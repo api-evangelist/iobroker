@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ioBroker (self-hosted) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://iobroker.net/
+ioBroker is an open-source integration platform for the Internet of Things, allowing users to connect and automate a wide variety of smart home devices, services, and protocols. It provides a modular, plugin‑based architecture where adapters enable communication with devices such as lights, thermostats, sensors, and cloud services. The platform can be self‑hosted on a server, Raspberry Pi, or Docker, offering a flexible, community‑driven solution for home automation enthusiasts and developers.
+
+**Areas:** Company · IoT · HomeAutomation · OpenSource · IntegrationPlatform · SelfHosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://iobroker.net/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/iobroker/](https://apis.io/providers/iobroker/).
